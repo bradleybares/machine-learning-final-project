@@ -16,6 +16,7 @@ plotly = "^5.13.0"
 scikit-learn = "^1.2.1"
 chart-studio = "^1.1.0"
 kaleido = "0.2.1"
+seaborn = "^0.12.2"
 
 [tool.poetry.dev-dependencies]
 notebook = "^6.5.2"
